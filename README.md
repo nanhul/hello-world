@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Introduction to Github
+Introduction to Github will be completed soon, I guess.
